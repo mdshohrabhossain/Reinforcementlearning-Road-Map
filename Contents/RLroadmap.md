@@ -20,3 +20,4 @@ Book by Andrew Barto and Richard S. Sutton
 ## Github Repo
 
 1. [vmayoral](https://github.com/vmayoral/basic_reinforcement_learning)
+2. [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)

@@ -13,9 +13,9 @@ Book by Andrew Barto and Richard S. Sutton
 
 ## Papers 
 
-## Single Agent Reinforcement Learning 
+### Single Agent Reinforcement Learning 
 
-## Multi-Agent Reinforcement Learning 
+### Multi-Agent Reinforcement Learning 
 
 ## Github Repo
 

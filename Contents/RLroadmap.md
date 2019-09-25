@@ -6,6 +6,10 @@
 3. [Reinforcement Learning Tutorial](http://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html)
 4. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
 
+### Basic Read 
+
+1. [Deep Reinforcement Learning Course](https://medium.com/free-code-camp/an-introduction-to-reinforcement-learning-4339519de419)
+
 ## Books 
 
 1. Reinforcement Learning: An Introduction

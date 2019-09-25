@@ -10,3 +10,13 @@
 Book by Andrew Barto and Richard S. Sutton
 
 2. [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf), Csaba Szepesvari, 2009
+
+## Papers 
+
+## Single Agent Reinforcement Learning 
+
+## Multi-Agent Reinforcement Learning 
+
+## Github Repo
+
+1. [vmayoral](https://github.com/vmayoral/basic_reinforcement_learning)

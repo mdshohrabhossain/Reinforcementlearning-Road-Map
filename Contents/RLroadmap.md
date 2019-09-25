@@ -8,3 +8,5 @@
 
 1. Reinforcement Learning: An Introduction
 Book by Andrew Barto and Richard S. Sutton
+
+2. [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf), Csaba Szepesvari, 2009

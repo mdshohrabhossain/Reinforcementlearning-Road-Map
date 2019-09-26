@@ -5,6 +5,7 @@
 2. [Udacity's Deep Reinforcement Learning](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 3. [Reinforcement Learning Tutorial](http://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html)
 4. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures?authuser=0)
+5. [Deep Reinforcement Learning By UC BERKELY](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ### Basic Read 
 
